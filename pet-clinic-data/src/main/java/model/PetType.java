@@ -1,4 +1,4 @@
-package uz.brogrammers.model;
+package model;
 
 public class PetType {
 
