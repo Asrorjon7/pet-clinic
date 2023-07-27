@@ -27,7 +27,7 @@ public class DataLoader implements CommandLineRunner {
         Owner ownerTwo =new Owner();
         ownerTwo.setId(2L);
         ownerTwo.setFirstName("Fiona");
-        ownerTwo.setFirstName("Glenanne");
+        ownerTwo.setLastName("Glenanne");
         ownerService.save(ownerTwo);
         System.out.println("Loaded  Owners ...");
 
