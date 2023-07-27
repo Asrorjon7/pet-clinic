@@ -1,4 +1,4 @@
-package service.map;
+package uz.brogrammers.service.map;
 
 import java.util.HashMap;
 import java.util.HashSet;

@@ -1,4 +1,4 @@
-package service;
+package uz.brogrammers.service;
 
 import java.util.Set;
 

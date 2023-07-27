@@ -1,7 +1,7 @@
-package service.map;
+package uz.brogrammers.service.map;
 
-import model.Owner;
-import service.CrudService;
+import uz.brogrammers.model.Owner;
+import uz.brogrammers.service.CrudService;
 
 import java.util.Set;
 

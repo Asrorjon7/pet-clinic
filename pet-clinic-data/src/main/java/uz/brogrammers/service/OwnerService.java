@@ -1,6 +1,6 @@
-package service;
+package uz.brogrammers.service;
 
-import model.Owner;
+import uz.brogrammers.model.Owner;
 
 public interface OwnerService extends CrudService<Owner,Long> {
 

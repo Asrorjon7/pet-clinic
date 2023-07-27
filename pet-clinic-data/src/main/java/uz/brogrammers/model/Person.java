@@ -1,4 +1,4 @@
-package model;
+package uz.brogrammers.model;
 
 public class Person {
     private String firstName;

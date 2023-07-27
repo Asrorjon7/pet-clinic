@@ -1,8 +1,6 @@
-package service;
+package uz.brogrammers.service;
 
-import model.Pet;
-
-import java.util.Set;
+import uz.brogrammers.model.Pet;
 
 public interface PetService  extends CrudService<Pet,Long>{
 

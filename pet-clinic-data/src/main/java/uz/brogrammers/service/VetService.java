@@ -1,8 +1,6 @@
-package service;
+package uz.brogrammers.service;
 
-import model.Vet;
-
-import java.util.Set;
+import uz.brogrammers.model.Vet;
 
 public interface VetService extends CrudService<Vet,Long> {
 //    Vet findById(Long id);

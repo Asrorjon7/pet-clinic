@@ -1,4 +1,4 @@
-package model;
+package uz.brogrammers.model;
 
 import java.time.LocalDate;
 
