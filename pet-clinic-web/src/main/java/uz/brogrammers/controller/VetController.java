@@ -7,7 +7,6 @@ import uz.brogrammers.service.VetService;
 
 @Controller
 public class VetController {
-
     private final VetService vetService;
 
     public VetController(VetService vetService) {
